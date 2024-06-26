@@ -1,0 +1,28 @@
+<map id="SatStat" name="SatStat">
+<area shape="rect" id="Node000001" href="$structSatStat.html" title="Object containing persistent status parameters of individual satellites." alt="" coords="415,1616,558,1832"/>
+<area shape="rect" id="Node000002" href="$structIonoStat.html" title=" " alt="" coords="5,984,125,1120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,1134,74,1215,82,1258,93,1299,122,1378,151,1436,189,1489,245,1551,285,1590,330,1625,416,1682,413,1686,327,1629,282,1594,241,1555,185,1492,146,1439,117,1380,88,1301,77,1259,69,1216,62,1134"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="124,5,319,821"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="321,545,369,626,411,718,429,767,443,818,452,869,455,921,455,1467,458,1534,466,1600,461,1600,453,1534,449,1467,449,921,446,870,437,819,424,769,407,720,364,628,317,548"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,812,88,969,83,968,121,811"/>
+<area shape="rect" id="Node000007" href="$structlc__t.html" title=" " alt="" coords="192,884,251,960"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="224,822,224,868,219,868,219,822"/>
+<area shape="rect" id="Node000004" href="$structQC.html" title=" " alt="" coords="255,1407,334,1523"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,1529,417,1626,413,1629,340,1532"/>
+<area shape="rect" id="Node000005" href="$structAverage.html" title=" " alt="" coords="316,1174,404,1270"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="350,1271,317,1392,312,1391,345,1270"/>
+<area shape="rect" id="Node000006" href="$structflt__t.html" title="Cycle slip repair filter." alt="" coords="103,1144,182,1300"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="162,1299,185,1352,213,1389,245,1421,241,1425,209,1392,180,1355,157,1301"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="223,960,225,1109,232,1204,245,1299,270,1391,265,1393,240,1301,227,1205,220,1109,218,960"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="193,945,174,963,160,985,147,1019,140,1056,136,1128,130,1127,134,1055,142,1018,155,983,170,960,190,942"/>
+<area shape="rect" id="Node000013" href="$structAzEl.html" title=" " alt="" coords="490,1417,555,1513"/>
+<area shape="poly" id="edge9_Node000001_Node000013" title=" " alt="" coords="517,1527,504,1616,499,1615,512,1527"/>
+<area shape="rect" id="Node000014" href="$structVectorEcef.html" title=" " alt="" coords="579,1377,709,1553"/>
+<area shape="poly" id="edge10_Node000001_Node000014" title=" " alt="" coords="593,1555,563,1603,559,1601,588,1552"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="598,1184,690,1260"/>
+<area shape="poly" id="edge11_Node000014_Node000015" title=" " alt="" coords="647,1274,647,1377,641,1377,641,1274"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="733,1427,918,1503"/>
+<area shape="poly" id="edge13_Node000001_Node000016" title=" " alt="" coords="783,1506,722,1555,574,1665,570,1661,718,1551,780,1501"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="793,1184,857,1260"/>
+<area shape="poly" id="edge14_Node000016_Node000010" title=" " alt="" coords="828,1274,828,1427,823,1427,823,1274"/>
+</map>

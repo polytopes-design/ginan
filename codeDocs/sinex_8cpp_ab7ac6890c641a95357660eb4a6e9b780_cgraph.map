@@ -1,0 +1,9 @@
+<map id="dedupe_sinex" name="dedupe_sinex">
+<area shape="rect" id="Node000001" href="$sinex_8cpp.html#ab7ac6890c641a95357660eb4a6e9b780" title=" " alt="" coords="5,31,117,56"/>
+<area shape="rect" id="Node000002" href="$sinex_8cpp.html#a3f2cca13329d5e8b1fe5b989b354c1fa" title=" " alt="" coords="169,5,240,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,40,161,31,162,37,118,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="91,28,155,15,156,21,92,33"/>
+<area shape="rect" id="Node000004" href="$sinex_8cpp.html#ab543e3364d2986ead33c6cae7a190b8d" title=" " alt="" coords="165,55,244,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="93,53,152,65,151,70,92,59"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="118,41,160,49,159,54,117,47"/>
+</map>

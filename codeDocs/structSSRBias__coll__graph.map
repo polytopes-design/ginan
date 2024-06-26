@@ -1,0 +1,15 @@
+<map id="SSRBias" name="SSRBias">
+<area shape="rect" id="Node000001" href="$structSSRBias.html" title=" " alt="" coords="224,1143,312,1259"/>
+<area shape="rect" id="Node000002" href="$structSSRMeta.html" title=" " alt="" coords="5,884,168,1080"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,1079,131,1117,168,1150,210,1174,207,1179,165,1155,127,1120,105,1082"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="56,5,251,821"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="198,821,217,985,231,1079,244,1126,238,1128,225,1081,212,986,193,822"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,822,95,846,93,868,88,867,89,845,92,821"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="269,944,493,1020"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="364,1022,308,1129,303,1127,359,1019"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="457,375,521,451"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="480,465,442,633,401,846,388,944,383,943,396,845,437,632,475,464"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="518,944,682,1020"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="502,464,595,943,590,944,496,465"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="569,1022,507,1082,481,1103,453,1121,389,1153,328,1180,326,1175,387,1149,451,1116,478,1099,504,1078,565,1018"/>
+</map>

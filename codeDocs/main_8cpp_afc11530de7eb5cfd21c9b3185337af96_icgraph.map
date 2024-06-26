@@ -1,0 +1,8 @@
+<map id="createTracefiles" name="createTracefiles">
+<area shape="rect" id="Node000001" href="$main_8cpp.html#afc11530de7eb5cfd21c9b3185337af96" title="Create new empty trace files only when required when the filename is changed." alt="" coords="308,5,432,31"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#a2c1eabb2ea9b242d8d9fd2c1795849e9" title=" " alt="" coords="5,5,64,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,21,64,21,64,15,294,15"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#a479f892b35943104163405de9a93be14" title=" " alt="" coords="112,31,260,56"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="295,31,261,36,260,30,294,26"/>
+<area shape="poly" id="edge3_Node000004_Node000002" title=" " alt="" coords="98,31,64,25,65,20,99,26"/>
+</map>

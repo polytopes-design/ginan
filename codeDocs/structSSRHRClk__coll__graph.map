@@ -1,0 +1,8 @@
+<map id="SSRHRClk" name="SSRHRClk">
+<area shape="rect" id="Node000001" href="$structSSRHRClk.html" title=" " alt="" coords="102,1143,202,1259"/>
+<area shape="rect" id="Node000002" href="$structSSRMeta.html" title=" " alt="" coords="5,884,168,1080"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,1080,133,1126,127,1127,114,1081"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="55,5,249,821"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="225,821,226,896,223,972,215,1047,200,1119,197,1128,192,1126,195,1118,210,1046,218,971,221,896,219,822"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,822,95,846,93,868,88,867,89,845,92,821"/>
+</map>

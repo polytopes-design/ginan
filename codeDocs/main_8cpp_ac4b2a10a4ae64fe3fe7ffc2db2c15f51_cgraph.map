@@ -1,0 +1,6 @@
+<map id="initialiseStation" name="initialiseStation">
+<area shape="rect" id="Node000001" href="$main_8cpp.html#ac4b2a10a4ae64fe3fe7ffc2db2c15f51" title=" " alt="" coords="5,5,129,31"/>
+<area shape="rect" id="Node000002" href="$tides_8cpp.html#aeb36d9680b44b6ea52bc6f261fe64130" title="Read BLQ ocean/atmospheric tide loading parameters." alt="" coords="177,5,249,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,24,164,24,164,29,129,30"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="129,6,164,7,164,12,129,12"/>
+</map>

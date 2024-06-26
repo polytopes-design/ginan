@@ -1,0 +1,12 @@
+<map id="writeBSINEXHeader" name="writeBSINEXHeader">
+<area shape="rect" id="Node000001" href="$biasSINEXwrite_8cpp.html#ab94f8678684d9733ffbe150e860a564a" title="Write bias SINEX head for the first time." alt="" coords="5,51,156,76"/>
+<area shape="rect" id="Node000002" href="$gTime_8cpp.html#a37bc65d232e726cdbc51122a8a8ec00e" title=" " alt="" coords="375,25,457,51"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,48,149,27,203,10,265,3,327,10,367,19,366,24,326,15,265,8,205,15,151,32,106,53"/>
+<area shape="rect" id="Node000006" href="$biasSINEXwrite_8cpp.html#a986e047c2dd383adf5526d99e5c418c4" title="Update bias SINEX first line." alt="" coords="204,25,327,51"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="156,50,190,45,191,51,156,56"/>
+<area shape="rect" id="Node000008" href="$algebra__old_8cpp.html#a54fd9b64416949c38e879ac889964d2a" title=" " alt="" coords="237,75,294,100"/>
+<area shape="poly" id="edge5_Node000001_Node000008" title=" " alt="" coords="121,73,223,87,222,92,121,79"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="156,61,223,72,222,77,156,67"/>
+<area shape="poly" id="edge3_Node000006_Node000002" title=" " alt="" coords="327,44,361,44,361,49,327,49"/>
+<area shape="poly" id="edge4_Node000006_Node000002" title=" " alt="" coords="327,26,361,27,361,32,327,32"/>
+</map>

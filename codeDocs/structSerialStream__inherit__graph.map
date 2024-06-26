@@ -1,0 +1,13 @@
+<map id="SerialStream" name="SerialStream">
+<area shape="rect" id="Node000001" href="$structSerialStream.html" title=" " alt="" coords="285,169,442,385"/>
+<area shape="rect" id="Node000003" href="$structTcpSocket.html" title=" " alt="" coords="252,433,475,1269"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="366,399,366,433,361,433,361,399"/>
+<area shape="rect" id="Node000002" href="$structStream.html" title=" " alt="" coords="285,5,442,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,135,366,169,361,169,361,135"/>
+<area shape="rect" id="Node000004" href="$structNtripStream.html" title=" " alt="" coords="5,1427,228,1563"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,1156,145,1428,140,1426,244,1154"/>
+<area shape="rect" id="Node000005" href="$structNtripUploader.html" title=" " alt="" coords="251,1317,475,1673"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="366,1283,366,1317,361,1317,361,1283"/>
+<area shape="rect" id="Node000006" href="$structSisnetStream.html" title=" " alt="" coords="499,1407,721,1583"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="482,1154,579,1406,574,1408,477,1156"/>
+</map>

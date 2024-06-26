@@ -1,0 +1,23 @@
+<map id="UbxDecoder" name="UbxDecoder">
+<area shape="rect" id="Node000001" href="$structUbxDecoder.html" title=" " alt="" coords="413,1311,592,1527"/>
+<area shape="rect" id="Node000002" href="$structObsLister.html" title=" " alt="" coords="40,787,136,863"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,877,84,953,91,1046,100,1094,114,1143,133,1189,158,1232,183,1262,213,1289,279,1334,349,1368,414,1392,412,1397,347,1373,276,1339,209,1293,180,1266,154,1235,128,1192,109,1145,95,1096,86,1046,79,953,80,877"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,139,257"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,257,89,771,84,771,70,257"/>
+<area shape="rect" id="Node000005" href="$structIcdDecoder.html" title=" " alt="" coords="169,737,373,913"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="292,926,311,1006,337,1098,369,1193,409,1285,422,1309,417,1312,404,1288,364,1195,332,1099,306,1007,287,927"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="163,173,359,264"/>
+<area shape="poly" id="edge4_Node000005_Node000006" title=" " alt="" coords="218,266,205,289,198,317,198,339,205,393,226,567,252,721,247,722,221,567,200,394,193,340,193,316,200,287,213,263"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="397,5,461,81"/>
+<area shape="poly" id="edge5_Node000006_Node000007" title=" " alt="" coords="384,50,353,56,320,66,289,83,265,107,257,122,253,139,253,173,248,173,248,138,252,120,261,104,286,79,318,61,351,51,383,45"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="320,288,536,393"/>
+<area shape="poly" id="edge7_Node000008_Node000007" title=" " alt="" coords="432,95,431,288,426,288,426,95"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="543,288,759,393"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="475,48,536,65,567,81,593,104,621,147,639,195,649,244,653,288,648,288,644,245,634,197,616,149,589,107,564,86,534,70,474,53"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="426,394,418,539,413,747,415,865,420,988,430,1112,447,1233,461,1295,456,1296,441,1234,425,1113,415,989,409,865,408,747,413,539,421,394"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="608,395,596,418,577,494,567,592,563,703,563,822,564,1054,562,1154,555,1234,542,1295,537,1294,549,1233,557,1154,559,1054,557,822,558,703,562,591,572,494,591,416,603,392"/>
+<area shape="rect" id="Node000010" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="721,417,916,1233"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="724,1202,705,1235,660,1294,607,1344,603,1341,656,1290,700,1232,719,1199"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="940,787,1012,863"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="986,863,994,938,994,1035,988,1088,976,1140,957,1190,930,1235,898,1271,862,1302,821,1328,778,1351,690,1384,609,1405,608,1399,689,1379,776,1346,818,1324,858,1298,895,1267,926,1232,952,1187,971,1138,983,1087,989,1035,988,938,980,864"/>
+</map>

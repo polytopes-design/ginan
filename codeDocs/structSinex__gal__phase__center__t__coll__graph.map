@@ -1,0 +1,7 @@
+<map id="Sinex_gal_phase_center_t" name="Sinex_gal_phase_center_t">
+<area shape="rect" id="Node000001" href="$structSinex__gal__phase__center__t.html" title=" " alt="" coords="5,203,209,279"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="18,5,90,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,82,51,129,54,154,61,178,65,188,60,190,55,180,49,155,46,129,46,82"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,5,207,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,82,134,179,131,188,126,186,129,178,152,81"/>
+</map>

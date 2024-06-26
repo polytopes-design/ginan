@@ -1,0 +1,13 @@
+<map id="Geph" name="Geph">
+<area shape="rect" id="Node000001" href="$structGeph.html" title="GLONASS broadcast ephemeris." alt="" coords="288,1067,403,1483"/>
+<area shape="rect" id="Node000002" href="$structBrdcEph.html" title=" " alt="" coords="5,529,93,605"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,618,52,691,60,781,77,879,91,927,108,974,146,1045,193,1112,243,1171,290,1219,286,1222,239,1174,189,1115,141,1048,103,976,85,929,72,880,54,782,47,691,45,619"/>
+<area shape="rect" id="Node000003" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="118,379,274,755"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,754,301,1050,296,1051,233,755"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,5,284,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,96,199,362,193,362,193,96"/>
+<area shape="rect" id="Node000006" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="299,159,493,975"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="369,975,364,1050,359,1050,364,975"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="518,529,610,605"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="566,605,561,675,552,768,535,872,508,975,488,1028,465,1079,414,1173,409,1170,460,1077,483,1026,503,974,530,871,547,767,556,675,560,605"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SatSys::sysName" name="SatSys::sysName">
+<area shape="rect" id="Node000001" href="$structSatSys.html#a099c890a6a613ec08f3260a51f0544f8" title=" " alt="" coords="223,5,357,31"/>
+<area shape="rect" id="Node000002" href="$structACSConfig.html#a20ca3689eafecfa2b7e656c28e340256" title="Set satellite options for a specific satellite using a hierarchy of sources." alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,21,175,21,175,15,209,15"/>
+</map>

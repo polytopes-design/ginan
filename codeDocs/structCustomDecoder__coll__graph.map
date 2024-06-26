@@ -1,0 +1,18 @@
+<map id="CustomDecoder" name="CustomDecoder">
+<area shape="rect" id="Node000001" href="$structCustomDecoder.html" title=" " alt="" coords="403,1067,581,1283"/>
+<area shape="rect" id="Node000002" href="$structObsLister.html" title=" " alt="" coords="24,543,120,619"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,634,65,709,70,802,78,851,90,899,109,945,134,988,161,1019,191,1047,225,1072,261,1093,335,1127,403,1150,402,1155,333,1132,259,1098,222,1076,188,1052,157,1023,130,991,104,948,85,901,72,852,64,802,59,709,63,633"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,139,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="75,81,75,527,69,527,69,81"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="144,529,360,634"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="261,634,275,715,298,819,333,932,355,988,381,1041,396,1065,391,1068,376,1044,351,990,328,934,293,821,270,716,256,635"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="340,5,404,81"/>
+<area shape="poly" id="edge4_Node000005_Node000006" title=" " alt="" coords="330,70,311,87,296,107,272,160,255,217,244,276,238,334,238,443,246,528,241,529,233,443,233,334,239,275,250,216,267,158,291,104,307,83,327,66"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="384,529,600,634"/>
+<area shape="poly" id="edge6_Node000007_Node000006" title=" " alt="" coords="417,67,436,84,452,104,476,158,493,216,504,275,510,334,510,443,503,529,497,528,505,443,504,334,499,276,488,217,471,160,447,107,432,87,414,71"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="495,634,495,1050,489,1050,489,634"/>
+<area shape="rect" id="Node000008" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="624,173,819,989"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="641,991,616,1044,594,1078,589,1075,611,1041,636,989"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="843,543,915,619"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="887,619,894,693,894,790,888,842,876,894,858,944,833,991,810,1020,784,1046,724,1090,659,1123,598,1148,596,1143,657,1118,721,1085,780,1042,806,1016,828,988,853,942,871,893,882,841,888,790,889,693,882,620"/>
+</map>

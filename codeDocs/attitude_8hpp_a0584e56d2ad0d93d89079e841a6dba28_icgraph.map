@@ -1,0 +1,9 @@
+<map id="updateSatAtts" name="updateSatAtts">
+<area shape="rect" id="Node000001" href="$attitude_8cpp.html#a0584e56d2ad0d93d89079e841a6dba28" title="Update sat nominal/model yaws." alt="" coords="276,70,391,95"/>
+<area shape="rect" id="Node000002" href="$structOrbitIntegrator.html#a3ed19521cfc21cdaa2d7c8fa4f385499" title=" " alt="" coords="25,5,208,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,69,192,48,193,43,272,64"/>
+<area shape="rect" id="Node000004" href="$debug_8cpp.html#a9779f5f24c300e72581f3858ed638c9e" title=" " alt="" coords="59,70,174,95"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="262,85,174,85,174,80,262,80"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#a79eb17a8eaafbf1dde7569cb7eae3b7e" title=" " alt="" coords="5,119,228,145"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="264,101,229,109,174,122,173,117,227,104,263,96"/>
+</map>

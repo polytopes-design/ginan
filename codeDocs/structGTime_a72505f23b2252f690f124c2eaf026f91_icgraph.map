@@ -1,0 +1,18 @@
+<map id="GTime::floorTime" name="GTime::floorTime">
+<area shape="rect" id="Node000001" href="$structGTime.html#a72505f23b2252f690f124c2eaf026f91" title=" " alt="" coords="424,147,559,172"/>
+<area shape="rect" id="Node000002" href="$gTime_8cpp.html#abd3e80e328e3d4afed1001aa34ca9d16" title="Returns (posix) for current epoch." alt="" coords="194,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,137,431,89,404,64,375,44,350,34,323,27,324,22,351,29,377,40,408,60,435,85,475,133"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html#a2c1eabb2ea9b242d8d9fd2c1795849e9" title=" " alt="" coords="20,56,79,81"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="410,148,141,94,78,79,79,74,142,89,411,142"/>
+<area shape="rect" id="Node000009" href="$rinexClkWrite_8cpp.html#a87a652e05ec91c35c1e56c0650176dfa" title=" " alt="" coords="170,55,347,80"/>
+<area shape="poly" id="edge3_Node000001_Node000009" title=" " alt="" coords="456,142,375,102,315,83,316,78,377,97,458,137"/>
+<area shape="rect" id="Node000015" href="$sp3Write_8cpp.html#aa684817008c29bcd43c77bdda90b8a31" title=" " alt="" coords="5,149,93,175"/>
+<area shape="poly" id="edge8_Node000001_Node000015" title=" " alt="" coords="467,183,426,211,377,234,311,251,258,257,205,252,140,234,116,222,94,207,60,177,64,173,97,203,119,218,142,229,206,247,258,252,310,246,375,229,424,207,463,179"/>
+<area shape="rect" id="Node000018" href="$structNtripUploader.html#aed62670c2d0d02f1bb0d930f42e68609" title=" " alt="" coords="141,179,376,219"/>
+<area shape="poly" id="edge6_Node000001_Node000018" title=" " alt="" coords="411,176,376,182,375,177,410,171"/>
+<area shape="rect" id="Node000021" href="$biasSINEXwrite_8cpp.html#a6c7446a6a1e0b4bd45275115a06b5c46" title="Write stored bias output to SINEX file Return number of written biases (&#45;1 if file not found)" alt="" coords="199,295,318,320"/>
+<area shape="poly" id="edge9_Node000001_Node000021" title=" " alt="" coords="475,185,434,232,407,257,377,278,349,291,319,300,318,295,347,286,375,273,404,253,430,228,471,181"/>
+<area shape="poly" id="edge2_Node000002_Node000005" title=" " alt="" coords="181,35,142,45,79,62,78,57,141,39,180,30"/>
+<area shape="poly" id="edge4_Node000009_Node000015" title=" " alt="" coords="218,88,80,152,78,147,216,83"/>
+<area shape="poly" id="edge7_Node000018_Node000018" title=" " alt="" coords="294,168,281,161,259,158,239,160,227,165,222,171,225,178,220,180,217,170,223,160,237,155,259,153,283,156,296,163"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="TcpSocket::delayedReconnect" name="TcpSocket::delayedReconnect">
+<area shape="rect" id="Node000001" href="$structTcpSocket.html#ae4050e3ed6adf0dbe575ca992234f798" title=" " alt="" coords="1053,170,1268,195"/>
+<area shape="rect" id="Node000002" href="$structNtripStream.html#a8e7a5e1d0ae5f1837f336fe2d31c5ae4" title=" " alt="" coords="784,5,1005,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1134,163,1077,115,1004,66,962,48,964,43,1007,62,1080,111,1138,159"/>
+<area shape="rect" id="Node000003" href="$structSisnetStream.html#a56cc641704e031342a9c1eba56444c7a" title=" " alt="" coords="5,151,235,191"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1128,165,1072,135,1039,121,1005,111,892,92,777,84,662,85,549,92,444,105,348,121,198,153,196,148,347,116,443,100,549,87,661,79,777,78,893,86,1006,105,1041,116,1074,130,1130,161"/>
+<area shape="rect" id="Node000004" href="$structSisnetStream.html#a743f81c9442479914f1d2052b7818906" title=" " alt="" coords="791,145,998,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1039,174,998,170,998,164,1040,168"/>
+<area shape="rect" id="Node000005" href="$structSisnetStream.html#aa33b178bbc2570400475425ba059bb4d" title=" " alt="" coords="517,181,736,221"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="1039,190,736,200,736,195,1039,184"/>
+<area shape="rect" id="Node000006" href="$structSisnetStream.html#a5dc8b2ed787356a865782bdce91bb37a" title=" " alt="" coords="283,209,469,249"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="1042,200,1006,204,871,223,736,236,627,239,517,236,470,235,470,230,517,231,627,233,736,231,871,217,1005,199,1041,194"/>
+<area shape="rect" id="Node000007" href="$structTcpSocket.html#af0d4224df8c4ae9c3ca8227bfd10a701" title=" " alt="" coords="529,297,725,322"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="1135,206,1078,245,1043,265,1006,280,934,298,860,309,789,315,725,316,725,311,789,309,860,304,933,293,1004,275,1041,260,1076,241,1132,202"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="942,136,939,131,931,127,895,123,866,125,851,130,848,136,856,143,852,146,843,136,848,126,865,120,895,118,933,122,943,127,946,133"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="804,175,737,186,736,181,803,170"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="504,218,470,222,469,216,503,212"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="274,209,207,193,208,188,275,204"/>
+<area shape="poly" id="edge11_Node000007_Node000006" title=" " alt="" coords="567,295,517,280,433,252,435,247,518,275,568,290"/>
+</map>

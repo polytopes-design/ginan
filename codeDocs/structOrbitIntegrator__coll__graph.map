@@ -1,0 +1,13 @@
+<map id="OrbitIntegrator" name="OrbitIntegrator">
+<area shape="rect" id="Node000001" href="$structOrbitIntegrator.html" title=" " alt="" coords="242,1037,441,1153"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,144,200,960"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,959,238,1012,249,1024,245,1027,234,1015,198,962"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="224,514,317,590"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,590,283,773,295,893,316,1013,318,1021,313,1022,311,1014,290,893,278,773,268,590"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="342,507,567,597"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="455,598,450,677,438,782,417,899,387,1014,383,1023,378,1021,381,1013,412,897,432,781,444,677,450,597"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="423,5,487,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,95,457,507,452,507,452,95"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="591,514,686,590"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="645,590,647,663,642,759,635,811,623,863,606,914,582,961,558,994,527,1021,493,1043,457,1061,455,1056,490,1039,524,1017,554,990,578,959,601,912,618,861,629,810,637,758,642,663,640,591"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="SSRAtmRegion" name="SSRAtmRegion">
+<area shape="rect" id="Node000001" href="$structSSRAtmRegion.html" title=" " alt="" coords="354,1067,493,1363"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,543,169,619"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,619,98,691,113,786,141,890,160,940,184,988,218,1037,258,1082,301,1121,343,1155,339,1159,298,1125,254,1085,214,1040,180,991,155,942,136,891,108,787,93,692,86,620"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="270,5,334,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="258,62,224,80,195,107,161,161,135,220,116,282,103,344,90,458,88,543,83,543,85,458,98,343,111,280,130,218,156,159,191,104,221,76,256,57"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="194,536,410,627"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="305,95,305,536,299,536,299,95"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="435,529,657,634"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="348,45,381,51,416,62,449,79,477,104,511,154,535,209,551,268,560,327,564,385,564,440,557,529,551,528,559,440,559,385,555,328,546,269,530,211,506,156,473,107,446,83,414,67,379,56,347,50"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,626,334,809,353,925,377,1042,378,1050,373,1051,371,1043,348,926,329,809,304,627"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="539,635,458,1051,452,1050,533,634"/>
+<area shape="rect" id="Node000006" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="682,173,877,989"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="684,970,672,991,637,1040,595,1086,550,1126,508,1160,504,1155,547,1122,591,1082,632,1037,668,988,680,967"/>
+</map>

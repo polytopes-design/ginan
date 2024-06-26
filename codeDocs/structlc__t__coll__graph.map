@@ -1,0 +1,17 @@
+<map id="lc_t" name="lc_t">
+<area shape="rect" id="Node000001" href="$structlc__t.html" title=" " alt="" coords="368,1267,427,1343"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,388,200,1204"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,1187,214,1202,245,1232,281,1257,318,1275,353,1288,351,1293,316,1280,278,1261,241,1237,210,1206,198,1190"/>
+<area shape="rect" id="Node000003" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="225,608,381,984"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="326,984,346,1112,376,1242,378,1250,373,1252,371,1243,341,1113,320,985"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="140,159,316,249"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,250,224,304,225,364,240,479,260,591,254,592,235,479,220,364,218,304,221,249"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="417,5,481,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="404,53,303,74,258,89,242,98,231,107,221,131,220,159,215,159,216,130,227,104,239,93,256,84,302,69,403,48"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="330,281,529,357"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="448,95,435,280,429,280,443,95"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="535,273,739,364"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="496,51,546,69,571,84,591,104,616,144,631,189,639,234,641,273,636,274,633,234,626,190,611,146,587,107,567,88,544,74,494,56"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="434,357,439,500,441,719,434,978,426,1112,413,1243,412,1251,407,1250,408,1242,421,1111,429,977,436,719,433,500,429,357"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="641,365,638,511,631,611,619,724,600,844,574,967,537,1089,489,1205,467,1240,441,1269,437,1266,463,1236,484,1203,532,1088,568,966,595,843,614,723,626,611,633,510,636,364"/>
+</map>

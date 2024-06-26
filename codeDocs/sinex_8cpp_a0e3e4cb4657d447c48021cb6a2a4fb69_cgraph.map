@@ -1,0 +1,8 @@
+<map id="write_snx_gal_pcs" name="write_snx_gal_pcs">
+<area shape="rect" id="Node000001" href="$sinex_8cpp.html#a0e3e4cb4657d447c48021cb6a2a4fb69" title=" " alt="" coords="5,55,147,80"/>
+<area shape="rect" id="Node000002" href="$sinex_8cpp.html#a3864b30901f7e47c62b577f17fae0d3b" title=" " alt="" coords="195,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,52,206,32,208,37,128,57"/>
+<area shape="rect" id="Node000003" href="$sinex_8cpp.html#a6000bebeaeddbaffb66f03279f776fbb" title=" " alt="" coords="198,55,345,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,73,184,74,184,79,147,79"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="147,56,184,56,184,61,147,61"/>
+</map>

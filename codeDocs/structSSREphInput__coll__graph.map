@@ -1,0 +1,9 @@
+<map id="SSREphInput" name="SSREphInput">
+<area shape="rect" id="Node000001" href="$structSSREphInput.html" title=" " alt="" coords="128,1087,245,1163"/>
+<area shape="rect" id="Node000002" href="$structEphValues.html" title=" " alt="" coords="135,928,238,1024"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,1024,189,1070,184,1070,184,1024"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,5,200,821"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,821,180,911,175,912,161,822"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="225,375,317,451"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="275,452,276,535,271,648,257,777,244,842,228,905,225,914,220,912,223,903,239,841,251,776,266,648,270,535,270,452"/>
+</map>

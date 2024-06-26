@@ -1,0 +1,21 @@
+<map id="GlobalOptions" name="GlobalOptions">
+<area shape="rect" id="Node000001" href="$structGlobalOptions.html" title="Options for the general operation of the software." alt="" coords="285,503,535,1517"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,166,79,242"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="42,242,41,290,43,350,50,415,66,478,108,579,160,676,218,767,277,848,273,851,214,770,156,679,103,581,61,480,45,416,37,350,35,291,37,242"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,166,197,242"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,242,160,349,164,414,175,478,196,552,221,625,281,765,276,767,216,627,191,553,170,479,159,415,154,349,155,242"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,166,390,242"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,242,311,348,319,478,320,486,315,487,314,479,305,349,303,242"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="466,5,530,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="454,65,419,84,385,107,356,136,332,167,328,164,352,133,382,103,416,79,452,61"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="415,159,581,249"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="501,95,501,159,495,159,495,95"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="605,166,844,242"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="544,57,589,77,634,103,669,133,698,164,694,168,665,137,631,108,587,82,542,62"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="497,250,474,479,473,487,468,486,469,478,491,249"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="713,243,543,676,538,674,708,241"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="868,166,1048,242"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="945,244,897,352,863,417,827,480,760,581,688,679,547,856,543,852,684,676,756,578,822,477,859,414,892,349,940,241"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="920,5,996,81"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="961,95,961,166,955,166,955,95"/>
+</map>

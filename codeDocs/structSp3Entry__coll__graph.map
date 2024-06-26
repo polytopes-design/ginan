@@ -1,0 +1,9 @@
+<map id="Sp3Entry" name="Sp3Entry">
+<area shape="rect" id="Node000001" href="$structSp3Entry.html" title=" " alt="" coords="149,612,259,748"/>
+<area shape="rect" id="Node000002" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="15,159,171,535"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,534,175,587,177,596,172,597,169,589,152,536"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,181,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,97,96,142,91,142,91,97"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="195,309,287,385"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="240,386,216,596,211,595,234,385"/>
+</map>

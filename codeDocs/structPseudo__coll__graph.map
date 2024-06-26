@@ -1,0 +1,14 @@
+<map id="Pseudo" name="Pseudo">
+<area shape="rect" id="Node000001" href="$structPseudo.html" title=" " alt="" coords="95,1491,185,1587"/>
+<area shape="rect" id="Node000002" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="5,612,200,1428"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,1428,138,1474,133,1474,129,1429"/>
+<area shape="rect" id="Node000003" href="$structKFKey.html" title="Keys used to interface with Kalman filter objects." alt="" coords="225,922,381,1118"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="294,1119,266,1267,243,1350,214,1429,188,1478,183,1476,210,1427,238,1348,260,1266,289,1118"/>
+<area shape="rect" id="Node000004" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="98,173,254,549"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,549,284,905,278,906,209,550"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="288,5,360,81"/>
+<area shape="poly" id="edge4_Node000003_Node000007" title=" " alt="" coords="323,82,317,173,307,577,305,905,300,905,301,577,312,173,318,82"/>
+<area shape="rect" id="Node000008" href="$structReceiver.html" title="Object to maintain receiver station data." alt="" coords="404,213,572,509"/>
+<area shape="poly" id="edge6_Node000008_Node000007" title=" " alt="" coords="345,80,406,198,402,200,341,83"/>
+<area shape="poly" id="edge5_Node000003_Node000008" title=" " alt="" coords="449,510,337,907,332,905,444,509"/>
+</map>

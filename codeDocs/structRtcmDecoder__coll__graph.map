@@ -1,0 +1,28 @@
+<map id="RtcmDecoder" name="RtcmDecoder">
+<area shape="rect" id="Node000001" href="$structRtcmDecoder.html" title=" " alt="" coords="541,1127,772,1523"/>
+<area shape="rect" id="Node000002" href="$structRtcmTrace.html" title=" " alt="" coords="5,449,188,805"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,818,130,890,153,965,185,1036,228,1101,260,1136,297,1168,337,1196,378,1221,463,1261,542,1290,540,1295,461,1266,376,1225,334,1200,294,1172,257,1140,224,1104,181,1039,148,967,125,892,110,819"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="131,35,203,111"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="200,110,216,136,229,164,238,203,243,248,245,355,232,605,225,733,224,853,234,955,244,998,259,1033,283,1072,312,1108,345,1142,380,1172,455,1225,528,1266,525,1270,452,1229,377,1176,341,1146,308,1112,279,1075,254,1036,239,1000,229,956,219,853,220,733,226,605,240,355,238,249,232,204,223,166,211,138,195,113"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,107,110,135,92,166,74,231,65,299,63,367,66,432,61,432,58,367,60,298,69,230,88,164,106,131,129,104"/>
+<area shape="rect" id="Node000004" href="$structObsLister.html" title=" " alt="" coords="378,589,474,665"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="430,679,434,750,444,840,462,938,489,1034,513,1093,544,1151,539,1154,509,1096,483,1036,456,939,439,840,429,750,425,679"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="359,35,493,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="429,112,429,572,423,572,423,112"/>
+<area shape="rect" id="Node000007" href="$structPacketStatistics.html" title=" " alt="" coords="498,479,693,775"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="612,788,642,1126,637,1127,607,789"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="717,589,879,665"/>
+<area shape="poly" id="edge6_Node000001_Node000008" title=" " alt="" coords="793,665,703,1111,697,1110,788,664"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="766,35,830,111"/>
+<area shape="poly" id="edge7_Node000008_Node000009" title=" " alt="" coords="801,125,801,589,795,589,795,125"/>
+<area shape="rect" id="Node000010" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="903,219,1098,1035"/>
+<area shape="poly" id="edge8_Node000001_Node000010" title=" " alt="" coords="906,1008,894,1036,873,1072,848,1104,785,1183,781,1179,844,1101,869,1069,889,1033,901,1006"/>
+<area shape="rect" id="Node000011" href="$structObsList.html" title="List of observations for an epoch." alt="" coords="1123,589,1260,665"/>
+<area shape="poly" id="edge9_Node000001_Node000011" title=" " alt="" coords="1194,665,1191,737,1179,832,1155,937,1136,988,1112,1036,1083,1080,1047,1120,1007,1156,964,1189,874,1242,788,1282,786,1277,872,1238,961,1184,1004,1152,1043,1117,1078,1077,1108,1033,1131,986,1149,935,1174,832,1186,737,1189,665"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1105,28,1265,119"/>
+<area shape="poly" id="edge10_Node000011_Node000012" title=" " alt="" coords="1188,132,1194,588,1188,588,1183,132"/>
+<area shape="rect" id="Node000013" href="$structGWeek.html" title=" " alt="" coords="1297,589,1403,665"/>
+<area shape="poly" id="edge11_Node000001_Node000013" title=" " alt="" coords="1353,665,1349,737,1338,832,1314,936,1296,987,1274,1036,1231,1097,1179,1149,1118,1193,1052,1229,983,1257,914,1280,789,1309,788,1304,913,1275,981,1252,1049,1224,1115,1188,1175,1145,1227,1094,1269,1033,1291,985,1309,934,1333,831,1344,736,1347,665"/>
+<area shape="rect" id="Node000014" href="$structInt.html" title=" " alt="" coords="1289,5,1425,141"/>
+<area shape="poly" id="edge12_Node000013_Node000014" title=" " alt="" coords="1358,155,1353,588,1348,588,1353,155"/>
+</map>

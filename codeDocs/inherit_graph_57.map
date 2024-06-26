@@ -1,0 +1,59 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structIcdDecoder.html" title=" " alt="" coords="144,583,239,608"/>
+<area shape="rect" id="Node000001" href="$structUbxDecoder.html" title=" " alt="" coords="320,583,423,608"/>
+<area shape="poly" id="edge38_Node000000_Node000001" title=" " alt="" coords="253,593,320,593,320,598,253,598"/>
+<area shape="rect" id="Node000002" href="$structUbxParser.html" title=" " alt="" coords="495,384,583,410"/>
+<area shape="poly" id="edge39_Node000001_Node000002" title=" " alt="" coords="425,574,433,568,469,528,498,483,519,441,531,409,536,411,523,443,503,486,474,532,436,572,429,578"/>
+<area shape="rect" id="Node000018" href="$structNetworkStatistics.html" title=" " alt="" coords="123,682,260,707"/>
+<area shape="rect" id="Node000015" href="$structTcpSocket.html" title=" " alt="" coords="328,682,415,707"/>
+<area shape="poly" id="edge40_Node000018_Node000015" title=" " alt="" coords="274,692,328,692,328,697,274,697"/>
+<area shape="rect" id="Node000016" href="$structNtripStream.html" title=" " alt="" coords="489,607,590,632"/>
+<area shape="poly" id="edge41_Node000015_Node000016" title=" " alt="" coords="417,674,434,667,481,641,506,630,508,635,484,646,436,671,420,679"/>
+<area shape="rect" id="Node000014" href="$structNtripUploader.html" title=" " alt="" coords="483,656,596,682"/>
+<area shape="poly" id="edge42_Node000015_Node000014" title=" " alt="" coords="428,683,482,675,483,680,429,688"/>
+<area shape="rect" id="Node000017" href="$structSisnetStream.html" title=" " alt="" coords="485,706,594,731"/>
+<area shape="poly" id="edge43_Node000015_Node000017" title=" " alt="" coords="429,700,485,708,484,713,428,705"/>
+<area shape="rect" id="Node000006" href="$structObsLister.html" title=" " alt="" coords="150,435,233,460"/>
+<area shape="poly" id="edge52_Node000006_Node000001" title=" " alt="" coords="212,470,253,519,280,545,309,568,333,581,330,585,307,573,277,549,250,522,208,473"/>
+<area shape="rect" id="Node000005" href="$structCustomDecoder.html" title=" " alt="" coords="308,132,435,158"/>
+<area shape="poly" id="edge44_Node000006_Node000005" title=" " alt="" coords="227,425,244,411,258,394,273,363,279,334,277,279,275,252,277,225,287,197,306,167,320,156,324,160,310,171,291,199,283,226,281,252,282,279,284,335,278,365,262,397,247,415,230,429"/>
+<area shape="rect" id="Node000007" href="$structRinexParser.html" title=" " alt="" coords="322,182,421,207"/>
+<area shape="poly" id="edge46_Node000006_Node000007" title=" " alt="" coords="225,425,242,411,258,394,276,362,284,334,290,304,306,269,331,234,355,206,359,209,335,237,310,272,295,306,289,335,281,364,262,397,246,415,228,429"/>
+<area shape="rect" id="Node000011" href="$structRtcmDecoder.html" title=" " alt="" coords="316,283,427,308"/>
+<area shape="poly" id="edge47_Node000006_Node000011" title=" " alt="" coords="219,425,258,394,355,306,359,310,262,398,223,429"/>
+<area shape="rect" id="Node000022" href="$structSinexParser.html" title=" " alt="" coords="322,435,421,460"/>
+<area shape="poly" id="edge49_Node000006_Node000022" title=" " alt="" coords="246,445,322,445,322,450,246,450"/>
+<area shape="rect" id="Node000023" href="$structSlrParser.html" title="Interface for slr streams." alt="" coords="332,484,411,510"/>
+<area shape="poly" id="edge50_Node000006_Node000023" title=" " alt="" coords="247,460,332,484,331,489,245,465"/>
+<area shape="rect" id="Node000024" href="$structSp3Parser.html" title=" " alt="" coords="328,534,415,559"/>
+<area shape="poly" id="edge51_Node000006_Node000024" title=" " alt="" coords="223,466,309,519,336,531,334,536,307,523,221,471"/>
+<area shape="rect" id="Node000004" href="$structCustomParser.html" title=" " alt="" coords="483,32,595,58"/>
+<area shape="poly" id="edge45_Node000005_Node000004" title=" " alt="" coords="420,124,433,117,482,86,521,56,524,60,485,90,436,122,422,129"/>
+<area shape="rect" id="Node000010" href="$structRtcmParser.html" title=" " alt="" coords="491,258,587,283"/>
+<area shape="poly" id="edge48_Node000011_Node000010" title=" " alt="" coords="440,283,491,275,491,280,441,288"/>
+<area shape="rect" id="Node000003" href="$structPacketStatistics.html" title=" " alt="" coords="129,283,253,308"/>
+<area shape="poly" id="edge55_Node000003_Node000002" title=" " alt="" coords="250,310,435,364,496,382,495,387,434,369,249,315"/>
+<area shape="poly" id="edge53_Node000003_Node000004" title=" " alt="" coords="192,269,201,214,220,146,234,111,254,78,277,49,307,24,332,12,359,5,387,3,415,4,468,15,510,30,509,35,466,20,414,10,387,8,360,10,333,17,309,29,281,52,258,81,239,114,225,148,206,216,197,269"/>
+<area shape="poly" id="edge54_Node000003_Node000011" title=" " alt="" coords="267,293,316,293,316,298,267,298"/>
+<area shape="rect" id="Node000008" href="$structParser.html" title=" " alt="" coords="160,359,223,384"/>
+<area shape="poly" id="edge63_Node000008_Node000002" title=" " alt="" coords="237,372,495,391,495,397,236,378"/>
+<area shape="poly" id="edge56_Node000008_Node000004" title=" " alt="" coords="227,349,244,335,258,318,273,284,278,251,277,219,272,188,269,158,271,128,282,98,306,68,325,54,347,43,393,31,441,29,483,32,483,37,440,34,394,36,349,48,328,58,310,72,287,100,276,129,275,158,278,187,282,219,283,251,278,285,262,321,248,339,230,354"/>
+<area shape="poly" id="edge58_Node000008_Node000007" title=" " alt="" coords="223,349,258,318,273,294,280,271,288,249,306,224,334,205,337,209,310,228,293,251,285,273,278,296,262,321,227,353"/>
+<area shape="poly" id="edge59_Node000008_Node000010" title=" " alt="" coords="220,349,258,318,280,290,290,278,307,268,354,254,404,250,451,252,491,257,491,263,450,257,404,255,355,260,309,273,294,282,284,294,262,322,224,353"/>
+<area shape="poly" id="edge60_Node000008_Node000022" title=" " alt="" coords="236,387,341,433,339,437,234,392"/>
+<area shape="poly" id="edge61_Node000008_Node000023" title=" " alt="" coords="224,390,262,420,285,446,310,470,333,482,330,486,306,474,281,450,258,424,221,395"/>
+<area shape="poly" id="edge62_Node000008_Node000024" title=" " alt="" coords="228,390,262,421,278,448,285,473,292,496,310,519,329,532,326,536,306,523,287,498,280,474,273,450,258,424,224,394"/>
+<area shape="rect" id="Node000009" href="$structDS2DCParser.html" title=" " alt="" coords="318,83,425,108"/>
+<area shape="poly" id="edge57_Node000008_Node000009" title=" " alt="" coords="226,349,244,335,258,318,271,291,277,265,277,217,277,193,279,169,288,144,306,118,321,106,324,111,310,122,293,146,285,170,282,193,283,217,283,266,276,293,262,321,247,339,230,353"/>
+<area shape="rect" id="Node000012" href="$structRtcmTrace.html" title=" " alt="" coords="146,632,237,658"/>
+<area shape="poly" id="edge64_Node000012_Node000011" title=" " alt="" coords="247,627,258,618,276,594,286,571,291,550,292,527,293,479,297,452,305,421,334,357,360,307,365,310,339,359,311,423,302,453,299,480,298,528,296,550,291,573,280,597,262,622,251,631"/>
+<area shape="rect" id="Node000013" href="$structRtcmEncoder.html" title=" " alt="" coords="317,632,425,658"/>
+<area shape="poly" id="edge65_Node000012_Node000013" title=" " alt="" coords="251,642,317,642,317,648,251,648"/>
+<area shape="poly" id="edge66_Node000013_Node000014" title=" " alt="" coords="439,652,483,658,482,664,439,657"/>
+<area shape="rect" id="Node000020" href="$structStream.html" title=" " alt="" coords="5,756,75,782"/>
+<area shape="rect" id="Node000021" href="$structFileStream.html" title=" " alt="" coords="145,731,237,756"/>
+<area shape="poly" id="edge67_Node000020_Node000021" title=" " alt="" coords="88,758,144,749,145,754,88,764"/>
+<area shape="rect" id="Node000019" href="$structSerialStream.html" title=" " alt="" coords="138,780,245,806"/>
+<area shape="poly" id="edge68_Node000020_Node000019" title=" " alt="" coords="88,774,138,782,137,787,88,779"/>
+<area shape="poly" id="edge69_Node000019_Node000015" title=" " alt="" coords="245,773,259,767,311,735,352,705,356,709,314,740,261,771,247,778"/>
+</map>

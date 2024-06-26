@@ -1,0 +1,9 @@
+<map id="Att" name="Att">
+<area shape="rect" id="Node000001" href="$structAtt.html" title="Satellite attitude." alt="" coords="154,884,243,980"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,375,77,451"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,452,38,523,42,617,58,721,72,772,92,820,115,855,143,885,139,889,110,858,87,823,67,774,52,722,36,618,33,523,35,452"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="101,5,296,821"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,822,201,867,196,867,196,822"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="321,375,437,451"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="382,452,380,524,371,618,349,722,332,774,310,823,286,858,258,888,254,884,282,855,306,820,327,772,344,721,365,618,375,523,377,452"/>
+</map>

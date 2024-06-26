@@ -1,0 +1,13 @@
+<map id="Eph" name="Eph">
+<area shape="rect" id="Node000001" href="$structEph.html" title="GPS/QZS/GAL/BDS broadcast ephemeris." alt="" coords="147,1081,288,1797"/>
+<area shape="rect" id="Node000002" href="$structBrdcEph.html" title=" " alt="" coords="5,529,93,605"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,618,77,778,108,974,149,1165,144,1166,103,975,72,778,52,619"/>
+<area shape="rect" id="Node000003" href="$structKeplerEph.html" title=" " alt="" coords="118,369,218,765"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,779,200,1081,194,1081,177,779"/>
+<area shape="rect" id="Node000004" href="$structSatSys.html" title="Object holding satellite id, and providing related functions." alt="" coords="242,379,398,755"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="301,755,264,1065,259,1064,295,755"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="232,5,408,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="323,96,323,362,317,362,317,96"/>
+<area shape="rect" id="Node000007" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="423,159,617,975"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="425,940,413,976,357,1127,297,1269,292,1267,352,1125,408,974,420,938"/>
+</map>

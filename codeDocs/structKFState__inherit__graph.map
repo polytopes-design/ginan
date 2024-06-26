@@ -1,0 +1,7 @@
+<map id="KFState" name="KFState">
+<area shape="rect" id="Node000001" href="$structKFState.html" title="Wrapper to protect main KFState_ structure from multithreading issues." alt="" coords="14,913,230,1789"/>
+<area shape="rect" id="Node000002" href="$structKFState__.html" title="Kalman filter object." alt="" coords="5,289,239,865"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,879,125,913,119,913,119,879"/>
+<area shape="rect" id="Node000003" href="$structFilterOptions.html" title=" " alt="" coords="32,5,212,241"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,255,125,289,119,289,119,255"/>
+</map>

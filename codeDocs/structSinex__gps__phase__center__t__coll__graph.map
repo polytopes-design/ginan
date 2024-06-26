@@ -1,0 +1,7 @@
+<map id="Sinex_gps_phase_center_t" name="Sinex_gps_phase_center_t">
+<area shape="rect" id="Node000001" href="$structSinex__gps__phase__center__t.html" title=" " alt="" coords="5,173,213,249"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,5,92,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,82,55,115,63,148,67,158,62,160,57,150,50,115,49,82"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="117,5,209,81"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,83,136,150,133,159,128,157,131,149,151,81"/>
+</map>

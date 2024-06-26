@@ -1,0 +1,11 @@
+<map id="NetworkStatistics" name="NetworkStatistics">
+<area shape="rect" id="Node000001" href="$structNetworkStatistics.html" title=" " alt="" coords="245,5,482,361"/>
+<area shape="rect" id="Node000002" href="$structTcpSocket.html" title=" " alt="" coords="252,409,475,1245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,375,366,409,361,409,361,375"/>
+<area shape="rect" id="Node000003" href="$structNtripStream.html" title=" " alt="" coords="5,1403,228,1539"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,1132,145,1404,140,1402,244,1130"/>
+<area shape="rect" id="Node000004" href="$structNtripUploader.html" title=" " alt="" coords="251,1293,475,1649"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="366,1259,366,1293,361,1293,361,1259"/>
+<area shape="rect" id="Node000005" href="$structSisnetStream.html" title=" " alt="" coords="499,1383,721,1559"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="482,1130,579,1382,574,1384,477,1132"/>
+</map>

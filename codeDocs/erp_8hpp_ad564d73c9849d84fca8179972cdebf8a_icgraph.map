@@ -1,0 +1,60 @@
+<map id="getErp" name="getErp">
+<area shape="rect" id="Node000001" href="$erp_8cpp.html#afe3874cc58d609f4ccc2b03a5ef632b8" title="Get earth rotation parameter values." alt="" coords="449,641,513,667"/>
+<area shape="rect" id="Node000002" href="$compare_8cpp.html#aa8c289d9d4e60f862fb0a60566b76bd0" title=" " alt="" coords="29,196,147,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,628,468,494,452,307,429,133,415,72,407,53,399,41,378,25,356,14,336,9,315,9,270,19,220,42,196,57,174,75,138,119,112,163,97,197,92,195,108,161,134,116,170,72,193,52,217,37,268,14,314,3,336,4,358,9,380,20,403,38,412,50,420,71,434,132,457,306,473,494,481,628"/>
+<area shape="rect" id="Node000006" href="$structOrbitIntegrator.html#a58c972cf5ddac52358ccbd8f7c34b9cc" title=" " alt="" coords="219,51,401,91"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="477,628,474,516,462,360,453,280,439,207,421,146,399,105,386,94,390,90,403,102,426,144,444,205,458,279,468,359,479,516,482,628"/>
+<area shape="rect" id="Node000008" href="$debug_8cpp.html#af70de86752b2299dc960e06802ce7295" title=" " alt="" coords="245,116,375,141"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="477,628,473,524,461,382,451,310,438,245,421,191,399,155,388,145,374,138,377,134,391,141,403,151,425,189,443,243,456,309,466,382,478,524,482,628"/>
+<area shape="rect" id="Node000009" href="$debug_8cpp.html#a024d78c0bdafab9654bb34addd8d14cc" title=" " alt="" coords="231,165,389,191"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="476,628,471,533,458,406,448,342,435,284,419,236,399,204,385,193,389,189,403,200,424,234,440,282,453,341,463,405,476,533,482,627"/>
+<area shape="rect" id="Node000010" href="$debug_8cpp.html#ab1c89bb12579ace0fe0ec45523ed9567" title=" " alt="" coords="249,215,371,240"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="476,628,469,543,455,431,432,323,417,281,399,253,386,243,371,236,373,231,389,238,403,250,422,279,437,322,460,430,474,543,481,628"/>
+<area shape="rect" id="Node000011" href="$debug_8cpp.html#a87c5753b6cf593f61c84b8b25cf8303f" title=" " alt="" coords="235,264,385,289"/>
+<area shape="poly" id="edge6_Node000001_Node000011" title=" " alt="" coords="475,628,466,553,451,455,429,362,415,327,399,303,384,291,387,287,403,299,420,324,434,361,456,454,472,552,480,627"/>
+<area shape="rect" id="Node000012" href="$ppp__obs_8cpp.html#add051d3b2749187ac05342e8d9c21290" title=" " alt="" coords="249,337,371,363"/>
+<area shape="poly" id="edge7_Node000001_Node000012" title=" " alt="" coords="477,628,474,577,462,512,439,444,421,412,399,384,386,373,370,365,372,360,389,368,403,380,426,409,444,442,467,511,479,577,483,628"/>
+<area shape="rect" id="Node000019" href="$attitude_8cpp.html#a1b479682868a13d0db3a05d5c6d38461" title="Finds time when eclipse started, prior (default) to this point in time For finding eclipses forward i..." alt="" coords="5,489,171,515"/>
+<area shape="poly" id="edge9_Node000001_Node000019" title=" " alt="" coords="475,628,467,592,454,551,432,510,417,493,400,479,381,472,355,468,288,470,214,480,146,492,145,487,213,474,288,464,355,463,383,467,403,475,421,489,436,507,459,549,473,591,480,627"/>
+<area shape="rect" id="Node000033" href="$main_8cpp.html#a2b0d1066eac1a878cf982adcdd550ce1" title="Perform any post&#45;final epoch calculations and outputs, then begin reverse smoothing and tidy up." alt="" coords="11,440,165,465"/>
+<area shape="poly" id="edge10_Node000001_Node000033" title=" " alt="" coords="474,628,467,593,453,552,431,511,417,494,400,479,371,462,340,450,275,438,210,437,153,443,152,437,210,432,275,433,342,445,374,458,403,475,421,490,436,508,458,549,472,591,479,627"/>
+<area shape="rect" id="Node000034" href="$minimumConstraints_8cpp.html#aa40934b017f373d875c3470591eff52e" title=" " alt="" coords="275,489,345,515"/>
+<area shape="poly" id="edge11_Node000001_Node000034" title=" " alt="" coords="467,630,441,583,422,558,400,536,373,521,345,511,346,506,375,516,403,532,426,554,445,580,472,628"/>
+<area shape="rect" id="Node000035" href="$minimumConstraints_8cpp.html#aeb8c374e79e38289a66b8b65d6574141" title=" " alt="" coords="38,540,138,565"/>
+<area shape="poly" id="edge16_Node000001_Node000035" title=" " alt="" coords="453,635,428,618,400,603,331,582,260,568,193,560,138,556,138,551,194,555,261,563,332,577,402,598,431,613,456,631"/>
+<area shape="rect" id="Node000036" href="$debug_8cpp.html#a80d24c0bf09dad23394c5fcac25aa80b" title=" " alt="" coords="33,591,143,616"/>
+<area shape="poly" id="edge17_Node000001_Node000036" title=" " alt="" coords="436,641,401,631,332,620,262,613,143,607,144,601,263,608,333,615,402,626,437,636"/>
+<area shape="rect" id="Node000038" href="$ppp__pseudoobs_8cpp.html#a49ce4050de278a66c933406b92bbbf39" title=" " alt="" coords="248,641,372,667"/>
+<area shape="poly" id="edge18_Node000001_Node000038" title=" " alt="" coords="436,657,372,657,372,651,436,651"/>
+<area shape="rect" id="Node000039" href="$ppp_8cpp.html#a1a529bfb379c76f71546a80022b8f123" title=" " alt="" coords="257,691,363,716"/>
+<area shape="poly" id="edge19_Node000001_Node000039" title=" " alt="" coords="437,670,402,681,358,693,356,688,401,676,435,665"/>
+<area shape="rect" id="Node000040" href="$debug_8cpp.html#a4d3d3d8959573d27f76a15b6f2e3e9ee" title=" " alt="" coords="241,740,379,765"/>
+<area shape="poly" id="edge20_Node000001_Node000040" title=" " alt="" coords="463,679,436,706,403,730,373,742,371,738,400,725,432,702,459,675"/>
+<area shape="rect" id="Node000041" href="$attitude_8cpp.html#a5d6694425700677beb52b092488f177b" title="Retrieves precise attitude (from file) &#45; unit vectors of satellite&#45;fixed coordinates (ECEF) Returns f..." alt="" coords="249,789,371,815"/>
+<area shape="poly" id="edge21_Node000001_Node000041" title=" " alt="" coords="473,681,446,731,427,757,403,779,372,794,370,790,400,775,423,753,442,728,468,678"/>
+<area shape="rect" id="Node000046" href="$orbits_8cpp.html#aefaca6400f01b33fcf0b7c142032f02b" title=" " alt="" coords="245,839,375,864"/>
+<area shape="poly" id="edge22_Node000001_Node000046" title=" " alt="" coords="478,681,469,715,454,754,433,794,403,828,377,843,374,839,400,824,428,791,450,752,464,713,473,680"/>
+<area shape="rect" id="Node000047" href="$attitude_8cpp.html#a1d392d7cfe6d33e3fa11664aeeef4f12" title="Calculates satellite orbit geometry &#45; for use in calculating modelled yaw." alt="" coords="19,963,157,988"/>
+<area shape="poly" id="edge29_Node000001_Node000047" title=" " alt="" coords="482,681,477,771,465,890,455,950,441,1004,424,1047,403,1076,380,1092,358,1102,337,1106,315,1106,270,1095,218,1077,180,1059,147,1035,99,990,102,986,150,1031,183,1054,220,1072,272,1090,316,1101,336,1101,356,1097,377,1088,399,1072,420,1045,436,1002,449,949,459,890,472,770,477,680"/>
+<area shape="rect" id="Node000060" href="$orbits_8cpp.html#ab65265e5f03f6db38c93debf3c916f84" title=" " alt="" coords="255,888,365,913"/>
+<area shape="poly" id="edge25_Node000001_Node000060" title=" " alt="" coords="481,682,475,724,462,777,439,831,423,856,403,877,386,889,367,897,365,892,383,885,400,873,418,852,434,828,457,775,470,723,476,681"/>
+<area shape="rect" id="Node000014" href="$ppp__obs_8cpp.html#aa9dc8925a7e4b904e12660d44616f1fc" title=" " alt="" coords="261,937,359,963"/>
+<area shape="poly" id="edge26_Node000001_Node000014" title=" " alt="" coords="483,681,480,732,469,798,459,833,445,867,426,899,403,927,383,941,360,948,359,943,381,936,400,923,422,896,440,865,454,831,463,797,475,732,478,680"/>
+<area shape="rect" id="Node000018" href="$ppp__slr_8cpp.html#a0f53eb82b1b0572a1aabec8b6fe5a6ad" title=" " alt="" coords="264,987,356,1012"/>
+<area shape="poly" id="edge27_Node000001_Node000018" title=" " alt="" coords="480,681,470,750,454,838,432,922,419,955,403,977,382,992,357,999,356,994,379,987,399,974,414,952,427,920,449,837,465,749,474,680"/>
+<area shape="rect" id="Node000061" href="$debug_8cpp.html#a3a9dc241be6174dbd40a8bd071d6973d" title=" " alt="" coords="261,1036,359,1061"/>
+<area shape="poly" id="edge28_Node000001_Node000061" title=" " alt="" coords="481,681,473,760,458,863,435,961,420,1000,403,1027,383,1041,360,1048,359,1043,381,1036,399,1023,416,998,430,960,452,862,467,760,475,681"/>
+<area shape="rect" id="Node000062" href="$tides_8cpp.html#a39a8c3eb047cfec80cee2b90ad29962d" title=" " alt="" coords="272,1137,348,1163"/>
+<area shape="poly" id="edge30_Node000001_Node000062" title=" " alt="" coords="482,681,476,777,462,908,452,974,439,1035,423,1085,403,1120,378,1139,349,1148,348,1143,376,1134,399,1116,418,1083,434,1033,447,973,457,907,470,777,476,681"/>
+<area shape="rect" id="Node000066" href="$ppppp_8cpp.html#a6dcbf3bfe96a469cacb8a075506998ea" title="Prepare Satellite clocks to minimise residuals to broadcast clocks." alt="" coords="245,1187,375,1212"/>
+<area shape="poly" id="edge31_Node000001_Node000066" title=" " alt="" coords="482,681,479,789,467,937,457,1012,444,1081,426,1138,403,1177,391,1188,377,1195,374,1190,388,1183,399,1174,421,1136,439,1080,452,1011,462,936,473,788,477,681"/>
+<area shape="rect" id="Node000058" href="$sp3Write_8cpp.html#a63449e78bf1e8eb81fdd0486adf37cb2" title=" " alt="" coords="249,1236,371,1261"/>
+<area shape="poly" id="edge32_Node000001_Node000058" title=" " alt="" coords="483,680,481,796,471,960,461,1043,447,1120,428,1183,417,1208,403,1227,389,1238,373,1246,370,1241,386,1234,399,1223,412,1205,423,1181,442,1119,456,1043,465,959,475,796,477,680"/>
+<area shape="poly" id="edge8_Node000012_Node000012" title=" " alt="" coords="340,327,331,319,310,316,292,318,283,323,281,328,286,336,281,339,275,329,279,319,291,313,310,311,333,314,343,323"/>
+<area shape="poly" id="edge12_Node000034_Node000002" title=" " alt="" coords="289,480,97,223,101,220,293,477"/>
+<area shape="poly" id="edge13_Node000034_Node000033" title=" " alt="" coords="261,494,145,468,147,463,262,489"/>
+<area shape="poly" id="edge14_Node000034_Node000035" title=" " alt="" coords="262,516,139,544,137,539,261,511"/>
+<area shape="poly" id="edge15_Node000034_Node000036" title=" " alt="" coords="277,524,228,552,172,579,134,593,132,588,170,574,226,547,275,520"/>
+<area shape="poly" id="edge23_Node000046_Node000019" title=" " alt="" coords="230,839,217,828,192,790,183,752,185,714,192,677,198,640,200,603,192,566,169,529,153,517,156,513,173,526,197,564,205,603,204,640,197,678,190,715,188,751,197,788,221,824,234,835"/>
+<area shape="poly" id="edge24_Node000046_Node000047" title=" " alt="" coords="236,871,220,878,185,898,152,922,104,965,100,961,149,918,182,894,217,873,233,866"/>
+</map>
