@@ -1,0 +1,16 @@
+<map id="removeBadIonospheres" name="removeBadIonospheres">
+<area shape="rect" id="Node000001" href="$ppp_8cpp.html#a3d11452be1ce2ea58117c7fd3ac9f981" title="Remove ambiguity states from filter when they deemed old or bad This effectively reinitialises them o..." alt="" coords="5,104,181,129"/>
+<area shape="rect" id="Node000002" href="$structKFState.html#aeca6e3874ad0c94607152d244016582f" title="Returns the value and variance of a state within the kalman filter object." alt="" coords="238,29,393,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,101,228,75,285,57,286,62,230,81,156,106"/>
+<area shape="poly" id="edge9_Node000001_Node000002" title=" " alt="" coords="107,102,156,78,224,53,226,58,158,83,109,106"/>
+<area shape="rect" id="Node000003" href="$structACSConfig.html#acbb130e061ba4b7bf620e4fb68e1b794" title="Set receiver options for a specific receiver using a hierarchy of sources." alt="" coords="229,79,401,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="181,113,254,104,255,109,182,118"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="140,101,216,91,216,96,140,107"/>
+<area shape="rect" id="Node000020" href="$structKFState.html#ad64649e053946581c4ef20dc70b5fa16" title="Remove a state from a kalman filter object." alt="" coords="233,128,397,153"/>
+<area shape="poly" id="edge4_Node000001_Node000020" title=" " alt="" coords="142,127,220,137,219,142,141,132"/>
+<area shape="poly" id="edge6_Node000001_Node000020" title=" " alt="" coords="182,115,254,123,253,129,181,120"/>
+<area shape="rect" id="Node000021" href="$structGTime.html#aaa8a379d11cd6c040a6bbe680c0e913e" title="Uninitialised time for comparisons." alt="" coords="254,177,377,203"/>
+<area shape="poly" id="edge5_Node000001_Node000021" title=" " alt="" coords="110,127,163,150,230,174,241,178,240,183,228,179,161,155,108,132"/>
+<area shape="poly" id="edge8_Node000001_Node000021" title=" " alt="" coords="161,127,230,150,288,169,286,174,228,155,159,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="279,31,271,21,275,11,290,5,315,3,346,6,358,15,355,20,344,11,315,8,292,10,279,15,277,20,283,28"/>
+</map>

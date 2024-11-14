@@ -1,0 +1,7 @@
+<map id="writeGPX" name="writeGPX">
+<area shape="rect" id="Node000001" href="$gpx_8cpp.html#a6a003c9cf2dd5732000ebbaf4dd8a6b7" title=" " alt="" coords="259,42,341,67"/>
+<area shape="rect" id="Node000002" href="$outputs_8cpp.html#ab72aaa4a378c8714b6de17cc45e9314c" title=" " alt="" coords="5,5,211,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,49,211,44,211,38,245,44"/>
+<area shape="rect" id="Node000005" href="$rtsSmoothing_8cpp.html#a65cd5f94ab58227ab032b1e894ca3987" title=" " alt="" coords="47,70,169,95"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="246,65,170,76,169,71,245,60"/>
+</map>

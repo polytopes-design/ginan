@@ -1,0 +1,5 @@
+<map id="initialiseStation" name="initialiseStation">
+<area shape="rect" id="Node000001" href="$receiver_8cpp.html#ac4b2a10a4ae64fe3fe7ffc2db2c15f51" title=" " alt="" coords="176,5,300,31"/>
+<area shape="rect" id="Node000002" href="$inputs_8cpp.html#a69d21c6d14168a8a526a87a509002d41" title="Create a station object from an input." alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,21,128,21,128,15,162,15"/>
+</map>

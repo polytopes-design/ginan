@@ -1,0 +1,17 @@
+<map id="FilterOptions" name="FilterOptions">
+<area shape="rect" id="Node000001" href="$structFilterOptions.html" title=" " alt="" coords="473,269,653,485"/>
+<area shape="rect" id="Node000003" href="$structIonModelOptions.html" title=" " alt="" coords="5,703,173,939"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="460,399,392,418,319,446,248,484,216,508,187,535,159,573,136,615,120,660,108,704,103,703,115,658,131,613,154,570,183,532,213,504,245,480,317,441,390,413,458,394"/>
+<area shape="rect" id="Node000004" href="$structKFState__.html" title="Kalman filter object." alt="" coords="198,533,431,1109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,498,445,535,434,554,429,551,440,532,464,495"/>
+<area shape="rect" id="Node000006" href="$structMinimumConstraintOptions.html" title="Options associated with the minimum constraints mode of operation." alt="" coords="455,703,670,939"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="565,499,565,703,560,703,560,499"/>
+<area shape="rect" id="Node000007" href="$structPppOptions.html" title="Options associated with the ppp processing mode of operation." alt="" coords="695,663,881,979"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="661,495,684,532,715,596,742,662,737,664,710,598,679,535,656,498"/>
+<area shape="rect" id="Node000008" href="$structSppOptions.html" title=" " alt="" coords="906,733,1081,909"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="667,401,725,422,786,450,844,486,895,532,929,578,954,630,972,683,984,733,979,734,967,684,949,632,924,581,891,535,841,490,783,454,723,427,665,406"/>
+<area shape="rect" id="Node000002" href="$structRtsOptions.html" title=" " alt="" coords="459,5,666,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,235,565,269,560,269,560,235"/>
+<area shape="rect" id="Node000005" href="$structKFState.html" title="Wrapper to protect main KFState_ structure from multithreading issues." alt="" coords="207,1157,423,2033"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,1123,317,1157,312,1157,312,1123"/>
+</map>

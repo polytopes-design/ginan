@@ -1,0 +1,13 @@
+<map id="PhaseCenterData" name="PhaseCenterData">
+<area shape="rect" id="Node000001" href="$structPhaseCenterData.html" title=" " alt="" coords="303,541,451,657"/>
+<area shape="rect" id="Node000002" href="$structAzElMapData.html" title=" " alt="" coords="200,244,396,420"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,433,362,540,357,542,325,434"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,55,156,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,130,209,230,205,234,113,133"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="181,55,415,131"/>
+<area shape="poly" id="edge3_Node000002_Node000005" title=" " alt="" coords="301,132,301,228,295,228,295,132"/>
+<area shape="rect" id="Node000007" href="$structAzElMapData.html" title=" " alt="" coords="439,5,623,181"/>
+<area shape="poly" id="edge4_Node000002_Node000007" title=" " alt="" coords="438,193,386,246,382,242,434,189"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="421,294,493,370"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="448,371,401,526,396,525,443,369"/>
+</map>

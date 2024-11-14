@@ -1,0 +1,24 @@
+<map id="KFMeasEntry" name="KFMeasEntry">
+<area shape="rect" id="Node000001" href="$structKFMeasEntry.html" title="Object to hold an individual measurement." alt="" coords="467,1241,621,1517"/>
+<area shape="rect" id="Node000002" href="$structKFState.html" title="Wrapper to protect main KFState_ structure from multithreading issues." alt="" coords="48,279,264,1135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="50,899,22,982,13,1024,9,1066,10,1107,18,1146,34,1182,58,1215,78,1228,108,1235,186,1236,268,1233,303,1234,330,1239,395,1268,455,1304,452,1309,393,1273,329,1244,302,1239,268,1238,186,1242,108,1240,76,1233,54,1219,29,1185,13,1147,5,1107,3,1066,8,1023,17,980,45,897"/>
+<area shape="rect" id="Node000003" href="$structKFState__.html" title="Kalman filter object." alt="" coords="83,1291,317,1467"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="187,1135,196,1275,191,1275,181,1135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,1278,172,1218,165,1135,171,1135,177,1217,185,1277"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="407,669,595,745"/>
+<area shape="poly" id="edge11_Node000001_Node000016" title=" " alt="" coords="506,745,537,1225,532,1225,501,745"/>
+<area shape="poly" id="edge3_Node000003_Node000016" title=" " alt="" coords="499,746,487,820,466,919,434,1029,414,1083,390,1136,348,1200,285,1280,281,1277,344,1197,386,1133,409,1081,429,1027,460,917,482,819,494,745"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="717,65,781,141"/>
+<area shape="poly" id="edge4_Node000016_Node000014" title=" " alt="" coords="708,135,660,175,637,200,618,227,589,284,565,346,546,409,531,471,513,585,505,669,500,668,508,584,526,470,540,407,560,344,584,282,614,224,633,196,657,171,705,131"/>
+<area shape="rect" id="Node000061" title=" " alt="" coords="619,661,879,752"/>
+<area shape="poly" id="edge10_Node000061_Node000014" title=" " alt="" coords="752,155,752,661,747,661,747,155"/>
+<area shape="rect" id="Node000062" title=" " alt="" coords="904,669,1083,745"/>
+<area shape="poly" id="edge13_Node000062_Node000014" title=" " alt="" coords="796,115,836,131,881,154,923,184,957,224,985,281,1004,342,1015,405,1020,468,1020,528,1016,583,1004,668,998,668,1010,583,1014,528,1015,468,1010,406,999,343,980,283,952,227,919,188,878,158,834,136,794,120"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="63,65,140,141"/>
+<area shape="poly" id="edge6_Node000002_Node000024" title=" " alt="" coords="103,142,105,255,106,262,100,263,100,255,98,142"/>
+<area shape="rect" id="Node000025" href="$structKFKey.html" title="Keys used to interface with Kalman filter objects." alt="" coords="203,5,359,201"/>
+<area shape="poly" id="edge8_Node000001_Node000025" title=" " alt="" coords="301,201,304,225,308,323,305,446,292,731,290,876,295,1011,301,1072,311,1127,324,1176,341,1216,363,1250,391,1280,422,1306,454,1328,451,1332,419,1310,387,1283,359,1253,336,1219,319,1177,306,1128,296,1073,290,1011,285,876,287,730,299,445,302,323,299,226,296,202"/>
+<area shape="poly" id="edge7_Node000002_Node000025" title=" " alt="" coords="247,202,240,226,230,263,225,262,235,225,242,201"/>
+<area shape="poly" id="edge9_Node000001_Node000061" title=" " alt="" coords="752,752,749,841,737,959,712,1090,694,1156,670,1218,654,1251,634,1282,629,1279,649,1248,666,1216,689,1154,707,1089,732,958,743,840,747,752"/>
+<area shape="poly" id="edge12_Node000001_Node000062" title=" " alt="" coords="993,745,985,820,968,920,939,1030,919,1084,894,1136,871,1173,843,1207,811,1237,777,1265,705,1311,637,1345,635,1340,702,1306,774,1261,807,1233,839,1203,867,1170,890,1133,914,1082,934,1028,963,919,980,819,988,745"/>
+</map>

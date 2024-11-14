@@ -1,0 +1,25 @@
+<map id="FObs" name="FObs">
+<area shape="rect" id="Node000001" href="$structFObs.html" title=" " alt="" coords="221,1317,399,1427"/>
+<area shape="rect" id="Node000002" href="$structObservation.html" title=" " alt="" coords="279,1883,429,1959"/>
+<area shape="poly" id="edge10_Node000002_Node000001" title=" " alt="" coords="317,1427,352,1866,347,1866,312,1428"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,1870,326,1859,307,1740,300,1620,300,1512,303,1428,309,1428,305,1512,305,1620,313,1739,331,1858,334,1869"/>
+<area shape="rect" id="Node000006" href="$structGObs.html" title="Raw observation data from a receiver." alt="" coords="22,2111,201,2222"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="274,1969,252,1985,220,2014,191,2047,144,2112,140,2109,186,2043,216,2010,248,1981,271,1964"/>
+<area shape="rect" id="Node000090" href="$structPObs.html" title=" " alt="" coords="225,2111,403,2222"/>
+<area shape="poly" id="edge9_Node000090_Node000002" title=" " alt="" coords="348,1973,326,2112,320,2111,343,1972"/>
+<area shape="rect" id="Node000091" href="$structLObs.html" title=" " alt="" coords="427,2021,614,2312"/>
+<area shape="poly" id="edge12_Node000091_Node000002" title=" " alt="" coords="443,1956,471,1981,494,2020,490,2022,467,1984,439,1960"/>
+<area shape="rect" id="Node000003" href="$structObsMeta.html" title=" " alt="" coords="5,1204,196,1540"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,1553,130,1620,149,1689,175,1756,211,1818,242,1853,280,1880,277,1885,239,1857,207,1822,171,1759,144,1691,124,1621,111,1554"/>
+<area shape="rect" id="Node000004" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="423,924,618,1820"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="446,1821,426,1860,418,1872,413,1869,421,1857,441,1819"/>
+<area shape="poly" id="edge13_Node000091_Node000004" title=" " alt="" coords="523,1820,523,2005,518,2005,518,1820"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="573,395,645,471"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="618,471,656,733,679,926,697,1136,707,1347,707,1448,702,1543,693,1630,679,1707,659,1771,632,1822,603,1845,557,1866,446,1901,445,1896,555,1861,600,1840,628,1818,654,1769,674,1705,688,1629,697,1543,701,1448,702,1347,692,1136,674,926,651,734,612,472"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="606,472,584,650,558,886,556,908,551,907,553,885,579,649,601,471"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="96,2111,93,2079,95,2045,103,2011,120,1981,142,1965,177,1952,262,1932,263,1937,178,1957,145,1970,124,1984,108,2013,100,2045,99,2079,102,2111"/>
+<area shape="poly" id="edge8_Node000002_Node000090" title=" " alt="" coords="275,2112,261,2082,251,2048,250,2014,260,1982,268,1969,273,1972,264,1984,255,2015,257,2047,266,2080,280,2110"/>
+<area shape="poly" id="edge11_Node000002_Node000091" title=" " alt="" coords="425,2040,397,1999,381,1974,386,1971,402,1996,429,2037"/>
+<area shape="rect" id="Node000021" href="$structKFState.html" title="Wrapper to protect main KFState_ structure from multithreading issues." alt="" coords="202,5,418,861"/>
+<area shape="poly" id="edge14_Node000001_Node000021" title=" " alt="" coords="313,862,313,1300,307,1300,307,862"/>
+</map>

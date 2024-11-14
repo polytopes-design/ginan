@@ -1,0 +1,9 @@
+<map id="SigStat" name="SigStat">
+<area shape="rect" id="Node000001" href="$structSigStat.html" title="Object containing persistent status parameters of individual signals." alt="" coords="46,1117,214,1193"/>
+<area shape="rect" id="Node000002" href="$unionSigStat_1_1SlipStat.html" title=" " alt="" coords="5,504,145,680"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,680,96,870,121,1093,122,1101,117,1101,115,1094,91,871,77,681"/>
+<area shape="rect" id="Node000003" href="$structGTime.html" title="Time structure used throughout this software." alt="" coords="170,144,365,1040"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,1041,199,1095,192,1106,187,1103,194,1092,218,1039"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="231,5,303,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="270,81,270,128,265,128,265,81"/>
+</map>

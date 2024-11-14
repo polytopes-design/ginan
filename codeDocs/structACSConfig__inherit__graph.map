@@ -1,0 +1,11 @@
+<map id="ACSConfig" name="ACSConfig">
+<area shape="rect" id="Node000001" href="$structACSConfig.html" title="General options object to be used throughout the software." alt="" coords="402,2893,639,3749"/>
+<area shape="rect" id="Node000002" href="$structGlobalOptions.html" title="Options for the general operation of the software." alt="" coords="5,691,255,2160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,2174,168,2341,193,2512,227,2681,270,2845,297,2921,330,2997,404,3137,399,3139,325,2999,292,2923,265,2846,222,2682,188,2513,163,2342,145,2174"/>
+<area shape="rect" id="Node000003" href="$structInputOptions.html" title="Input source filenames and directories." alt="" coords="279,809,501,2042"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="436,2055,494,2893,489,2893,431,2056"/>
+<area shape="rect" id="Node000004" href="$structOutputOptions.html" title="Enabling and setting destiations of program outputs." alt="" coords="525,5,777,2845"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="555,2859,553,2893,547,2893,550,2859"/>
+<area shape="rect" id="Node000005" href="$structDebugOptions.html" title="Options to be used only for debugging new features." alt="" coords="801,1287,1040,1563"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="930,1577,931,1824,926,1977,916,2143,899,2318,874,2497,839,2674,793,2846,762,2928,725,3008,684,3084,642,3153,637,3150,679,3081,720,3005,757,2926,787,2845,834,2673,869,2496,894,2317,911,2143,921,1976,926,1824,925,1577"/>
+</map>

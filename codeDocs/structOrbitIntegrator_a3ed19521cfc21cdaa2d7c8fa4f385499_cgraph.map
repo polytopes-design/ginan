@@ -1,0 +1,35 @@
+<map id="OrbitIntegrator::computeAcceleration" name="OrbitIntegrator::computeAcceleration">
+<area shape="rect" id="Node000001" href="$structOrbitIntegrator.html#a3ed19521cfc21cdaa2d7c8fa4f385499" title=" " alt="" coords="5,297,188,337"/>
+<area shape="rect" id="Node000002" href="$trace_8hpp.html#af5320371d0f15d74154b2b32d315684d" title=" " alt="" coords="265,5,365,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,296,116,247,143,181,182,110,206,77,234,48,254,34,257,39,238,52,210,81,186,113,148,183,121,249,106,297"/>
+<area shape="rect" id="Node000003" href="$acceleration_8cpp.html#a4b560ff1ca9df0d6b36daf2674ae37d3" title="Central force acceleration." alt="" coords="443,107,581,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,296,116,251,142,193,181,136,206,112,235,92,264,79,295,72,327,70,360,72,420,83,470,99,469,104,419,88,359,77,327,75,296,78,266,84,237,96,210,116,185,140,147,196,121,253,106,297"/>
+<area shape="rect" id="Node000004" href="$acceleration_8cpp.html#aabb45560abe7b7e087899dca129ea165" title="Source point acceleration from a planet acting on a satellite." alt="" coords="249,107,382,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="107,295,155,220,192,178,234,141,244,135,247,140,238,146,195,181,159,223,111,298"/>
+<area shape="rect" id="Node000005" href="$acceleration_8cpp.html#a47f8bbad94d274d209b01cb9bb8949ef" title="Compute the acceleration of due to a spherical harmonic field acting on the satellite." alt="" coords="274,156,357,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="122,294,171,248,202,224,235,202,282,183,284,188,237,207,205,228,175,252,126,298"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="107,295,159,237,195,205,235,178,259,167,262,172,237,183,198,210,162,241,111,298"/>
+<area shape="rect" id="Node000007" href="$acceleration_8cpp.html#a58ec4e57210d82626bf5605188a92a22" title="&quot;The indirect J2 effect&quot;." alt="" coords="281,205,349,231"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="130,294,179,267,235,240,267,228,269,233,237,244,181,271,132,299"/>
+<area shape="rect" id="Node000008" href="$structIERS2010.html#ac0665555fbdfa4fced99082dc9963d79" title=" " alt="" coords="240,255,391,280"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="188,302,273,281,274,286,189,308"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="151,294,226,276,227,281,152,299"/>
+<area shape="rect" id="Node000009" href="$attitude_8cpp.html#a543fde2ca3f11becceecfce52de34cd8" title="Calculates fraction of Sun&#39;s disk visible by spacecraft 0 = full eclipse (umbra) 0 &lt; fraction &lt; 1 = p..." alt="" coords="264,304,367,329"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="188,323,250,322,250,328,188,328"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="188,305,250,306,250,311,188,310"/>
+<area shape="rect" id="Node000011" href="$attitude_8cpp.html#a0584e56d2ad0d93d89079e841a6dba28" title="Update sat nominal/model yaws." alt="" coords="258,353,373,379"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="152,334,245,356,244,361,151,339"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="189,326,274,347,273,352,188,331"/>
+<area shape="rect" id="Node000094" href="$boxwing_8cpp.html#a0f2ed5ce271eca9d462328ef96a20804" title=" " alt="" coords="248,403,383,428"/>
+<area shape="poly" id="edge13_Node000001_Node000094" title=" " alt="" coords="133,334,182,361,237,388,258,396,256,401,235,392,179,366,130,339"/>
+<area shape="rect" id="Node000097" href="$boxwing_8cpp.html#a004235dcf1fb99c3adeb2be5839dc22a" title=" " alt="" coords="236,452,395,477"/>
+<area shape="poly" id="edge16_Node000001_Node000097" title=" " alt="" coords="118,335,168,386,202,413,237,437,253,445,250,449,235,442,198,417,165,390,114,339"/>
+<area shape="rect" id="Node000014" href="$structSatSys.html#aec6d07b90d1e8172b8b6a6966abef4fd" title="Returns a std::string of this satellite&#39;s id." alt="" coords="272,501,359,527"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="108,336,127,372,156,415,193,460,237,498,260,510,258,515,235,503,190,464,152,419,122,374,103,338"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="116,336,165,404,199,442,237,474,259,486,282,494,280,499,257,491,235,479,195,445,160,407,112,339"/>
+<area shape="rect" id="Node000098" href="$coordinates_8cpp.html#a9860e0cea74eb4ca1383342104693565" title="transform vector in body frame to ecef" alt="" coords="270,551,361,576"/>
+<area shape="poly" id="edge19_Node000001_Node000098" title=" " alt="" coords="106,336,122,380,149,438,188,497,212,524,238,548,258,560,256,564,234,552,208,528,184,500,145,440,117,382,101,338"/>
+<area shape="poly" id="edge20_Node000001_Node000098" title=" " alt="" coords="110,336,128,376,156,426,192,479,238,524,258,536,280,544,278,549,256,541,234,528,188,482,151,429,124,378,105,338"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="382,125,429,126,429,131,382,131"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="382,108,429,108,429,113,382,113"/>
+</map>
